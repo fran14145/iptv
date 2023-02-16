@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+################### CANAIS TNT ###################
+
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ESTADIO TNT SPORT 01 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 01 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89977
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 02 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89978
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 03 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89979
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 04 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89980
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 05 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89981
+
 ################### CANAIS HBO MAX ###############
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03 [M]" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="CANAIS | ESPORTES",HBO MAX STAR+ 03 [M]

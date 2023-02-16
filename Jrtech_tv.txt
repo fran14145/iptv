@@ -1,5 +1,16 @@
 #EXTM3U
 
+################### CANAIS HBO MAX ###############
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03 [M]" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="CANAIS | ESPORTES",HBO MAX STAR+ 03 [M]
+http://lmtv.me:80/B8c5eB/Kyqsth/90108
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 [M]" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="CANAIS | ESPORTES",HBO MAX STAR+ 02 [M]
+http://lmtv.me:80/B8c5eB/Kyqsth/90107
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 01 [M]" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="CANAIS | ESPORTES",HBO MAX STAR+ 01 [M]
+http://lmtv.me:80/B8c5eB/Kyqsth/90106
+
+
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="CANAIS | ESPORTES",SPORTV [SD]
 http://lmtv.me:80/B8c5eB/Kyqsth/90330
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="CANAIS | ESPORTES",SPORTV 2 [HD]

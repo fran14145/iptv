@@ -13,6 +13,14 @@ http://lmtv.me:80/B8c5eB/Kyqsth/89979
 http://lmtv.me:80/B8c5eB/Kyqsth/89980
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 05 [HD] PPV
 http://lmtv.me:80/B8c5eB/Kyqsth/89981
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [HD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20FILM.png" group-title="CANAIS | FILMES E SERIES",TNT [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90393
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [SD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20FILM.png" group-title="CANAIS | FILMES E SERIES",TNT [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90394
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES [HD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20SERIES.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90397
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES [SD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20SERIES.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90398
 
 ################### CANAIS HBO MAX ###############
 

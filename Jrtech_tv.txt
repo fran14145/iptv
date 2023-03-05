@@ -3,6 +3,13 @@
 
 ################### CANAIS TNT ###################
 
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS [HD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="CANAIS | ESPORTES",BAND SPORTS [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89829
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS [SD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/BAND.png" group-title="CANAIS | ESPORTES",BAND SPORTS [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89830
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL [HD]" tvg-logo="http://storage.newbp.xyz/lives/CANAIS%20ABERTOS/TV%20BRASIL.png" group-title="CANAIS | ABERTOS",CANAL BRASIL [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89841
 #EXTINF:-1 tvg-id="Like.br" tvg-name="ESTADIO TNT SPORT 01 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 01 [HD] PPV
 http://lmtv.me:80/B8c5eB/Kyqsth/89977
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 02 [HD] PPV
